@@ -1,0 +1,14 @@
+title: Dylan McCarthy Art
+#logo: /assets/images/headshot.png
+description: "Jason Vanderburg’s digital notebook of ideas, essays, and experiments."
+# show_downloads: true
+url: "https://jason-vanderburg.github.io"
+baseurl: "/dylan-mccarthy"
+theme: fur-jekyll-template
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-remote-theme
